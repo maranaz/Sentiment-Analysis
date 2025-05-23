@@ -20,7 +20,7 @@ This Streamlit application allows you to upload transcripts, display sentiment s
 
 # ---- How to install---- #
 - Open your IDE and get the copy of the code from the repo.
-- Install the requires packages that are listed under Requirements section
+- Install the required packages that are listed under Requirements section
     - pip install streamlit
     - pip install matplotlib
     - pip install spacy
@@ -30,7 +30,7 @@ This Streamlit application allows you to upload transcripts, display sentiment s
 
 # ---- In the app---- #
 - Upload a transcript by clicking the upload button or drag and drop the file
-- Click on "generate the report button" to load the report
+- Click on "generate the report" button to load the report
 - Descriptions of each metrices are as follows:
     - Overall Sentiment Score: This metric quantifies this tone on a scale from -1 (very negative) to 1 (very positive), with values near 0 indicating neutrality.                      
     - Overall Filler Ratio: This metric measures speaking fluency by calculating the proportion of filler words (like "um", "uh", "you know") to the total words in the transcript. A higher ratio suggests less fluent or more hesitant speech
