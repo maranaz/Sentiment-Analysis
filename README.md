@@ -27,3 +27,7 @@ This Streamlit application allows you to upload transcripts, display sentiment s
     - python -m spacy download en_core_web_sm    
 - Run the application using the following command in the Terminal
     - streamlit run app.py
+
+# ---- In the app---- #
+- Upload a transcript by clicking the upload button or drag and drop the file
+- Click on "generate the report button" to load the report
