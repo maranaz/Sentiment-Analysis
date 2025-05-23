@@ -35,4 +35,6 @@ This Streamlit application allows you to upload transcripts, display sentiment s
     - Overall Sentiment Score: This metric quantifies this tone on a scale from -1 (very negative) to 1 (very positive), with values near 0 indicating neutrality.                      
     - Overall Filler Ratio: This metric measures speaking fluency by calculating the proportion of filler words (like "um", "uh", "you know") to the total words in the transcript. A higher ratio suggests less fluent or more hesitant speech
 
-- In one extra hour, I added the visualization plots for Sentiment Variation Across Speakers Over Time and Filler Words Across Speakers Over Time.
+- In one extra hour, I added the visualization plots for Sentiment Variation Across Speakers Over Time and Filler Words Across Speakers Over Time as shown below
+
+  ![Screenshot of app](Dashboard-screenshots/image3.jpg)
